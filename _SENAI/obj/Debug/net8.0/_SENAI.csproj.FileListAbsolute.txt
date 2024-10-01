@@ -1,0 +1,14 @@
+C:\Users\Anbeas TI\Desktop\_SENAI\bin\Debug\net8.0\_SENAI.exe
+C:\Users\Anbeas TI\Desktop\_SENAI\bin\Debug\net8.0\_SENAI.deps.json
+C:\Users\Anbeas TI\Desktop\_SENAI\bin\Debug\net8.0\_SENAI.runtimeconfig.json
+C:\Users\Anbeas TI\Desktop\_SENAI\bin\Debug\net8.0\_SENAI.dll
+C:\Users\Anbeas TI\Desktop\_SENAI\bin\Debug\net8.0\_SENAI.pdb
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.AssemblyInfoInputs.cache
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.AssemblyInfo.cs
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.csproj.CoreCompileInputs.cache
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.dll
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\refint\_SENAI.dll
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.pdb
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\_SENAI.genruntimeconfig.cache
+C:\Users\Anbeas TI\Desktop\_SENAI\obj\Debug\net8.0\ref\_SENAI.dll
